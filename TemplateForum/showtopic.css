@@ -1,0 +1,43 @@
+.message{
+    float: right;
+}
+.time{
+    width: 100%;
+    background-color: rgb(196, 187, 187);
+}
+.container{
+    width: 70%;
+    height: 500px;
+    background-color: rgb(213 236 236);
+    margin: auto;
+    padding: 5%;
+}
+table {
+    width: 100%;
+    border-bottom: 1px solid #111010;
+  }
+.reply{
+float: right;
+}
+.creator{
+    text-align: center;
+    width: 20%;
+}
+.subject{
+    width: 100%;
+    background-color: #69e3f5;
+    text-align: left;
+}
+.time-join{
+    font-size: small;
+    font-weight: 100;
+}
+table {
+
+    border-collapse: collapse;
+  }
+/* td, th {
+border: 1px solid #111010;
+text-align: left;
+padding: 8px;
+} */

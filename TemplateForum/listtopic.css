@@ -1,0 +1,29 @@
+.message{
+    float: right;
+}
+.container{
+    width: 70%;
+    height: 500px;
+    background-color: rgb(213 236 236);
+    margin: auto;
+    padding: 5%;
+}
+table {
+  border-collapse: collapse;
+  border: 1px solid #020202;
+  width: 100%;
+}
+.subject{
+    text-align: center;
+    background-color: #b6b3b9;
+}
+td, th {
+  text-align: left;
+  padding: 8px;
+}
+.n-reply{
+    text-align: center;
+}
+tr:nth-child(even) {
+    background-color: #98dcdf;
+  }
